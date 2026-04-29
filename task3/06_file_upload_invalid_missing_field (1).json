@@ -1,0 +1,6 @@
+{
+  "type": "FILE_UPLOAD",
+  "file_name": "photo.png",
+  "size_bytes": 1200,
+  "bucket": "prod-uploads"
+}

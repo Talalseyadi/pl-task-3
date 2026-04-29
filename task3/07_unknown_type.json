@@ -1,0 +1,5 @@
+{
+  "type": "DEVICE_EVENT",
+  "device_id": "d-100",
+  "status": "ON"
+}

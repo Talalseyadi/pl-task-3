@@ -1,0 +1,7 @@
+{
+  "type": "PAYMENT",
+  "payment_id": "pay_bad_amount",
+  "user_id": 3002,
+  "amount": -5,
+  "currency": "USD"
+}
